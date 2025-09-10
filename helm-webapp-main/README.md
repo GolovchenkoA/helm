@@ -2,6 +2,10 @@
 Project overview:  https://www.youtube.com/watch?v=jUYNS90nq8U&t=47s  
 Original project git repo: https://github.com/devopsjourney1/helm-webapp/tree/main  
 
+The project contains:
+- "templates-original" folder with original k8s manifest files.
+- "solution" folder with the final project from original git
+- "webapp1" folder that was used for practice
 
 # Create the helmchart
 ```
