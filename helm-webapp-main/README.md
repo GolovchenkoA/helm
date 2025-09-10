@@ -7,12 +7,10 @@ The project contains:
 - "solution" folder with the final project from original git
 - "webapp1" folder that was used for practice
 
-# Create the helmchart
+# Create the helm chart
 ```
 helm create webapp1
 ```
-
-
 
 # Follow along with the video
 - Create the files per the video, copying and pasting from templates-original
