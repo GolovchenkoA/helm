@@ -8,6 +8,8 @@ The project contains:
 - "webapp1" folder that was used for practice
 
 # Create the helm chart
+!!!!! But it creates a more advanced project. The name of the project should be changed
+
 ```
 helm create webapp1
 ```
